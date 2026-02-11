@@ -89,17 +89,22 @@ Watch a quick demo of the app in action:
 
 ## Folder Structure
 
-lib/
-├── main.dart                  # Entry point + theme setup (Material 3, dark mode)
-├── l10n/                      # Internationalization (.arb files for pt-BR & en-US)
-├── screens/                   # All screens (login, home, bible, admin, settings)
-├── tiles/                     # Reusable card widgets (message_card, warning_card, etc.)
-├── helpers/                   # Utilities (shared prefs, bible helpers, book codes)
-├── models/                    # Data models (user, message, etc.)
-assets/                        # Images, icons, fonts
-screenshots/                   # Portfolio screenshots
-android/                       # Android-specific (manifest, gradle)
-ios/                           # iOS-specific (Info.plist) - to be implemented
+verseflow/
+├── android/                       # Android-specific files (manifest, gradle)
+├── assets/                        # Images, icons, fonts
+├── ios/                           # iOS-specific files (Info.plist) - to be implemented
+├── lib/
+│   ├── helpers/                   # Utilities (shared prefs, bible helpers, book codes)
+│   ├── l10n/                      # Internationalization (.arb files for pt-BR & en-US)
+│   ├── main.dart                  # Entry point + theme setup (Material 3, dark mode)
+│   ├── models/                    # Data models (user, message, etc.)
+│   ├── screens/                   # All screens (login, home, bible, admin, settings)
+│   └── tiles/                     # Reusable card widgets (message_card, warning_card, etc.)
+├── screenshots/                   # Portfolio screenshots
+├── videos/                        # Demo video (verseflow-demo.mp4)
+├── LICENSE                        # All Rights Reserved notice
+├── README.md                      # Project documentation
+└── pubspec.yaml                   # Dependencies and metadata
 
 ## License
 All Rights Reserved – see LICENSE for details.
