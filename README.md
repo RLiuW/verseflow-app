@@ -38,6 +38,8 @@ Watch a silent walkthrough of the app in action:
 
 https://www.youtube.com/embed/R1laUr98XYI
 
+Or download it from /videos folder
+
 ## Features
 
 - Daily inspirational Bible messages with title, date, content, and reference verse
