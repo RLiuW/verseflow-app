@@ -34,9 +34,9 @@ For licensing inquiries, collaboration requests, or permission to use any part o
 
 Watch a quick demo of the app in action:
 
-<video src="videos/verseflow-demo.mp4" controls width="100%" max-width="800px" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-  Your browser does not support the video tag.
-</video>
+Watch a silent walkthrough of the app in action (about 1 minute):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R1laUr98XYI" title="VerseFlow Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Features
 
