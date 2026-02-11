@@ -34,9 +34,9 @@ For licensing inquiries, collaboration requests, or permission to use any part o
 
 Watch a quick demo of the app in action:
 
-Watch a silent walkthrough of the app in action (about 1 minute):
+Watch a silent walkthrough of the app in action:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R1laUr98XYI" title="VerseFlow Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/R1laUr98XYI
 
 ## Features
 
