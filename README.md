@@ -91,22 +91,22 @@ Or download it from /videos folder
 
 ## Folder Structure
 
-verseflow/
-├── android/                       # Android-specific files (manifest, gradle)
-├── assets/                        # Images, icons, fonts
-├── ios/                           # iOS-specific files (Info.plist) - to be implemented
-├── lib/
-│   ├── helpers/                   # Utilities (shared prefs, bible helpers, book codes)
-│   ├── l10n/                      # Internationalization (.arb files for pt-BR & en-US)
-│   ├── main.dart                  # Entry point + theme setup (Material 3, dark mode)
-│   ├── models/                    # Data models (user, message, etc.)
-│   ├── screens/                   # All screens (login, home, bible, admin, settings)
-│   └── tiles/                     # Reusable card widgets (message_card, warning_card, etc.)
-├── screenshots/                   # Portfolio screenshots
-├── videos/                        # Demo video (verseflow-demo.mp4)
-├── LICENSE                        # All Rights Reserved notice
-├── README.md                      # Project documentation
-└── pubspec.yaml                   # Dependencies and metadata
+- verseflow/
+  - android/                    # Android-specific
+  - assets/                     # Images, icons, fonts
+  - ios/                        # iOS-specific (to be implemented)
+  - lib/
+    - helpers/                  # Utilities
+    - l10n/                     # Internationalization
+    - main.dart                 # Entry point
+    - models/                   # Data models
+    - screens/                  # All screens
+    - tiles/                    # Reusable cards
+  - screenshots/                # Portfolio screenshots
+  - videos/                     # Demo video
+  - LICENSE
+  - README.md
+  - pubspec.yaml
 
 ## License
 All Rights Reserved – see LICENSE for details.
